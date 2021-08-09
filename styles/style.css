@@ -246,13 +246,13 @@
     z-index: 2;
   }
   
-  .table_cell_theme_dark{
+  .table__cell_theme_dark{
     margin-top: 80px;
     z-index: 1;
     width: 200px;
   }
   
-  .table_heading_theme_dark{
+  .table__heading_theme_dark{
     line-height: 1.15;
     font-size: 24px;
     font-weight: bolder;
@@ -261,7 +261,7 @@
     z-index: 1;
   }
   
-  .table_text_theme_dark{
+  .table__text_theme_dark{
     line-height: 1.2;
     font-size: 18px;
     font-weight: normal;
