@@ -1,7 +1,7 @@
- .techniques{
-    width: 80%;
-    display: flex; 
-   flex-wrap: wrap;
-    margin: auto;
-    padding-top: 100px;
-  }
+.techniques{
+  width: 80%;
+  display: flex; 
+  flex-wrap: wrap;
+  margin: auto;
+  padding-top: 100px;
+}
