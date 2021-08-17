@@ -1,0 +1,9 @@
+.footer__column-heading{
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bolder;
+    width: 135px;
+    text-align: left;
+    list-style-type: none;
+    margin: 0;
+  }
